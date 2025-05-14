@@ -1,11 +1,18 @@
 ---
-title: "pdanguyen.github.io"
+title: "Pham Dan Anh Nguyen"
+image: media/headshot.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: rectangle
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/anh-nguyen-450b841b2/
+    - text: GitHub
+      href: https://github.com/annnnng
+    - text: Email
+      href: mailto:nguyp22@wfu.edu
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I'm a Ph.D. student in Statistics at the University of Wisconsin - Madison.
