@@ -12,9 +12,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - href: resources.qmd
-        text: Resources
+      - href: talks.qmd
+        text: Talks
+      - href: pub.qmd
+        text: Publications
+      - posts.qmd
+
   page-footer:
     background: light # or `dark`
     left: Copyright 2025, Pham Dan Anh Nguyen

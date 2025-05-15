@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog",
+    "section": "",
+    "text": "blog post title\n\n\n\nQuarto\n\n\nR\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nAnh Nguyen\n\n\nMay 15, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/test/index.html",
+    "href": "posts/test/index.html",
+    "title": "blog post title",
+    "section": "",
+    "text": "CitationBibTeX citation:@online{nguyen2025,\n  author = {Nguyen, Anh},\n  title = {Blog Post Title},\n  date = {2025-05-15},\n  url = {https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nNguyen, Anh. 2025. “Blog Post Title.” May 15, 2025. https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/."
   }
 ]

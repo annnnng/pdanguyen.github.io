@@ -1,0 +1,9 @@
+[
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/post_test.html",
+      "/posts/test/index.html"
+    ]
+  }
+]
