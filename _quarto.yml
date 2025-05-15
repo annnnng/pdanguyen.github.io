@@ -4,19 +4,24 @@ project:
 
 website:
   title: "Pham Dan Anh Nguyen"
+  favicon: file/duck.png
   navbar:
+    title: false 
+    logo: file/duck.png
+    logo-alt: "Anh loves ducks!"
     left:
       - href: index.qmd
         text: Home
       - about.qmd
       - href: resources.qmd
         text: Resources
-
+  page-footer:
+    background: light # or `dark`
+    left: Copyright 2025, Pham Dan Anh Nguyen
+    
 format:
   html:
-    theme: 
-      light: litera
-      dark: solar
+    theme: litera
     css: styles.css
     toc: true
     page-layout: full
