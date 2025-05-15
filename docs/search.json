@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "DELETE-LATER/practice-markdown.html",
+    "href": "DELETE-LATER/practice-markdown.html",
+    "title": "Here is my level one header",
+    "section": "",
+    "text": "Here is my level one header\nHere is my first paragraph\nHere is my second paragraph, where you can read more about MEDS.\nThis is very important text!"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "All my favorite resources!",
+    "section": "",
+    "text": "this is an &lt;h1&gt; element\n\n\nthis is an &lt;h1&gt; element of class title\n\n\nthis is a &lt;p&gt; element\n\n\nthis is a &lt;p&gt; element of class title\n\n— # three dashes is markdown syntax for creating a horizontal line across your page\n\nThis paragraph is orange.\n\n\nThis paragraph is centered.\n\n\nThis paragraph has no styling.\n\n\nThis level-2 header is centered\n\n\n\nThis level-3 header is both centered and orange\n\n\nThis paragraph is orange and bolded using markdown syntax (yes, you can combine markdown and html!)."
   }
 ]

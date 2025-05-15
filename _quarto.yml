@@ -4,19 +4,29 @@ project:
 
 website:
   title: "Pham Dan Anh Nguyen"
+  favicon: file/duck.png
   navbar:
+    title: false # override printing your website `title` (e.g. "Sam Csik" on line 6) in the top left corner of your navbar
+    logo: file/duck.png
+    logo-alt: "Anh loves ducks"
     left:
       - href: index.qmd
         text: Home
       - about.qmd
       - href: resources.qmd
         text: Resources
+      - href: file/cv.pdf
+        text: CV
+        target: _blank
+  page-footer:
+    background: light 
+    left: Copyright 2025, Pham Dan Anh Nguyen
+    right: This website is built with {{< fa heart title="a heart" >}}, [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/samanthacsik/samanthacsik.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
 
 format:
   html:
-    theme: 
-      light: litera
-      dark: solar
-    css: styles.css
+    theme: styles.scss
+    mainfont: Knewave
     toc: true
     page-layout: full
+    

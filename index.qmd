@@ -7,11 +7,12 @@ about:
   image-shape: rectangle
   image-width: 17em
   links:
-    - text: LinkedIn
+    - icon: linkedin 
       href: https://www.linkedin.com/in/anh-nguyen-450b841b2/
-    - text: GitHub
+      target: _blank
+    - icon: github
       href: https://github.com/annnnng
-    - text: Email
+    - icon: envelope
       href: mailto:nguyp22@wfu.edu
 ---
 
