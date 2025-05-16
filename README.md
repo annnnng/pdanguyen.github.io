@@ -10,5 +10,5 @@ This website is buildt using Quarto, R, html, CSS, and Sass. All the necesary fi
 ## Acknowledgements
 
 Big thanks to the following people and tutorials:
-- [EDS291 class materials](https://ucsb-meds.github.io/EDS-296-DS-portfolios/) by [Sam Csik](https://samanthacsik.github.io/)
+- [EDS291 class materials](https://ucsb-meds.github.io/EDS-296-DS-portfolios/) by [Sam Shanny-Csik](https://samanthacsik.github.io/)
 
