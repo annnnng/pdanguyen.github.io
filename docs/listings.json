@@ -1,9 +1,16 @@
 [
   {
-    "listing": "/posts.html",
+    "listing": "/pages/teaching.html",
     "items": [
-      "/posts/post_test.html",
-      "/posts/test/index.html"
+      "/pages/teaching/teaching-assistant/index.html",
+      "/pages/teaching/wfu-sta111/index.html"
+    ]
+  },
+  {
+    "listing": "/pages/posts.html",
+    "items": [
+      "/pages/posts/post_test.html",
+      "/pages/posts/test/index.html"
     ]
   }
 ]

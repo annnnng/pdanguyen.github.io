@@ -12,15 +12,23 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: talks.qmd
-        text: Talks
-      - href: pub.qmd
+      - href: pages/about.qmd
+        text: About
+      - href: file/cv.pdf
+        text: CV
+        target: _blank
+      - href: pages/research.qmd
+        text: Research
+      - href: pages/pub.qmd
         text: Publications
-      - posts.qmd
+      - href: pages/teaching.qmd
+        text: Teaching
+      - pages/posts.qmd
 
   page-footer:
-    background: light # or `dark`
+    background: light
     left: Copyright 2025, Pham Dan Anh Nguyen
+    right: Made by combining a lot of tutorials together
     
 format:
   html:

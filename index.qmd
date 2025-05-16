@@ -3,7 +3,7 @@ title: "Pham Dan Anh Nguyen"
 image: media/headshot.jpg
 toc: false
 about: 
-  template: jolla
+  template: trestles
   image-shape: rectangle
   image-width: 17em
   links:
@@ -17,4 +17,5 @@ about:
       href: mailto:nguyp22@wfu.edu
 ---
 
-I'm a Ph.D. student in Statistics at the University of Wisconsin - Madison.
+I'm a Ph.D. student in Statistics at the University of Wisconsin - Madison. 
+

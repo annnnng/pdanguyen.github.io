@@ -1,0 +1,11 @@
+---
+title: "Teaching Assistant"
+description: "Courses for which I have served as teaching assistant"
+author:
+  - name: Anh Nguyen
+date: 05-15-2025
+categories: [intro-stat, wfu, smith] # self-defined categories
+citation: 
+  url: https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/ 
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
