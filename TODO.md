@@ -1,0 +1,11 @@
+- [ ] implement animated ducks
+- [ ] implement water background
+- [ ] write a blog post 
+- [ ] Revisit and revise your landing page content / bio
+- [ ] Finish applying your colors to different website elements
+- [ ] Polish Github README
+- [ ] Update CV
+- [ ] Update ORIC
+- [ ] Polish RESEARCH page
+- [ ] Polish TEACHING pages
+- [ ] Polish RESEARCH page

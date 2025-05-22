@@ -10,4 +10,6 @@ Before that I was a M.S. student and taught in the [Department of Statistics](ht
 
 ## Fun thing
 
-I have been playing in a Gamelan ensemble for almost 10 years. 
+I have been playing in a [Gamelan](https://en.wikipedia.org/wiki/Gamelan){target="_blank"} ensemble for almost 10 years. Here's a recent piece we played!
+
+{{< video https://www.youtube.com/watch?v=R8_NjuIhGn8 >}}

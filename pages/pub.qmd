@@ -1,0 +1,13 @@
+---
+title: "Publications"
+---
+
+## Preprints
+
+1. A.E. Mullan, **P.D.A. Nguyen**, S.C. Lotspeich, "Linking Potentially Misclassified Healthy Food Access to Diabetes Prevalence,"" *Statistics and Public Policy* (under review), 2025+. </br>
+[Preprint](https://arxiv.org/abs/2505.01465){targer="_blank"} - [Software](https://github.com/ashleymullan/food_access_misclassification){targer="_blank"}
+
+## Peer-Reviewed
+
+1. Zihan Miao, **Anh Nguyen**, Tian An Wong. "Kronecker's first limit formula for Kleinian groups." Funct. Approx. Comment. Math. 69 (1) 7 - 25, September 2023. [DOI](https://doi.org/10.7169/facm/1997){targer="_blank"}
+

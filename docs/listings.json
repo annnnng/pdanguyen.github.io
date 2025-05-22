@@ -2,15 +2,15 @@
   {
     "listing": "/pages/teaching.html",
     "items": [
-      "/pages/teaching/teaching-assistant/index.html",
-      "/pages/teaching/wfu-sta111/index.html"
+      "/pages/teaching/teaching-assistant/index.html"
     ]
   },
   {
+    "listing": "/pages/research.html",
+    "items": []
+  },
+  {
     "listing": "/pages/posts.html",
-    "items": [
-      "/pages/posts/post_test.html",
-      "/pages/posts/test/index.html"
-    ]
+    "items": []
   }
 ]

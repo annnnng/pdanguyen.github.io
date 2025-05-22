@@ -1,11 +1,15 @@
 ---
 title: "Teaching Assistant"
 description: "Courses for which I have served as teaching assistant"
-author:
-  - name: Anh Nguyen
-date: 05-15-2025
-categories: [intro-stat, wfu, smith] # self-defined categories
-citation: 
-  url: https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/ 
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
+
+## Wake Forest University
+
+- STA111: Introduction to Statistics
+- STA311: Statistical Inference
+- [Math and Stat Center](https://mathandstatscenter.wfu.edu/){target="_blank"} tutor
+
+## Smith College
+    
+- Multivariable Calculus, Number Theory, and Math Skill Studio. Held drop-in study session for the Calculus sequence, Linear Algebra, and Discrete Math.}

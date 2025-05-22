@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "pages/teaching/wfu-sta111/index.html",
-    "href": "pages/teaching/wfu-sta111/index.html",
-    "title": "WFU STA 111",
-    "section": "",
-    "text": "CitationBibTeX citation:@online{nguyen2025,\n  author = {Nguyen, Anh},\n  title = {WFU {STA} 111},\n  date = {2025-05-15},\n  url = {https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nNguyen, Anh. 2025. “WFU STA 111.” May 15, 2025. https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/."
-  },
-  {
     "objectID": "pages/about.html",
     "href": "pages/about.html",
     "title": "About",
@@ -14,25 +7,53 @@
     "text": "I am currently a Ph.D. students in the Department of Statistics at the University of Wisconsin, Madison."
   },
   {
-    "objectID": "pages/about.html#education",
-    "href": "pages/about.html#education",
+    "objectID": "pages/about.html#previously",
+    "href": "pages/about.html#previously",
     "title": "About",
-    "section": "Education",
-    "text": "Education\nUniversity of Wisconsin, Madison | Madison, WI Ph.D. in Statistics | Aug 2025 - current\nWake Forest University | Winston-Salem, NC M.S. in Statistics | Aug 2022 - May 2024\nSmith College | Northampton, MA B.A. in Mathematics | Aug 2018 - May 2022"
+    "section": "Previously",
+    "text": "Previously\nBefore that I was a M.S. student and taught in the Department of Statistics at Wake Forest University. There I worked with Dr. Sarah Lotspeich on correcting for missing data for surrogate validation in a clinical setting. I was a baby mathematician (undergraduate student) at Smith College with a minor in Statistics and Data Science."
   },
   {
-    "objectID": "pages/posts/test/index.html",
-    "href": "pages/posts/test/index.html",
-    "title": "blog post title",
+    "objectID": "pages/about.html#fun-thing",
+    "href": "pages/about.html#fun-thing",
+    "title": "About",
+    "section": "Fun thing",
+    "text": "Fun thing\nI have been playing in a Gamelan ensemble for almost 10 years. Here’s a recent piece we played!"
+  },
+  {
+    "objectID": "pages/pub.html",
+    "href": "pages/pub.html",
+    "title": "Publications",
     "section": "",
-    "text": "CitationBibTeX citation:@online{nguyen2025,\n  author = {Nguyen, Anh},\n  title = {Blog Post Title},\n  date = {2025-05-15},\n  url = {https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nNguyen, Anh. 2025. “Blog Post Title.” May 15, 2025. https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/."
+    "text": "A.E. Mullan, P.D.A. Nguyen, S.C. Lotspeich, “Linking Potentially Misclassified Healthy Food Access to Diabetes Prevalence,”” Statistics and Public Policy (under review), 2025+.  Preprint - Software"
+  },
+  {
+    "objectID": "pages/pub.html#preprints",
+    "href": "pages/pub.html#preprints",
+    "title": "Publications",
+    "section": "",
+    "text": "A.E. Mullan, P.D.A. Nguyen, S.C. Lotspeich, “Linking Potentially Misclassified Healthy Food Access to Diabetes Prevalence,”” Statistics and Public Policy (under review), 2025+.  Preprint - Software"
+  },
+  {
+    "objectID": "pages/pub.html#peer-reviewed",
+    "href": "pages/pub.html#peer-reviewed",
+    "title": "Publications",
+    "section": "Peer-Reviewed",
+    "text": "Peer-Reviewed\n\nZihan Miao, Anh Nguyen, Tian An Wong. “Kronecker’s first limit formula for Kleinian groups.” Funct. Approx. Comment. Math. 69 (1) 7 - 25, September 2023. DOI"
   },
   {
     "objectID": "pages/teaching.html",
     "href": "pages/teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Teaching Assistant\n\n\n\nintro-stat\n\n\nwfu\n\n\nsmith\n\n\n\nCourses for which I have served as teaching assistant\n\n\n\nAnh Nguyen\n\n\nMay 15, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWFU STA 111\n\n\n\nintro-stat\n\n\nwfu\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nAnh Nguyen\n\n\nMay 15, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Teaching Assistant\n\n\nCourses for which I have served as teaching assistant\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "TODO.html",
+    "href": "TODO.html",
+    "title": "Pham Dan Anh Nguyen",
+    "section": "",
+    "text": "implement animated ducks\nimplement water background\nwrite a blog post\nRevisit and revise your landing page content / bio\nFinish applying your colors to different website elements\nPolish Github README\nUpdate CV\nUpdate ORIC\nPolish RESEARCH page\nPolish TEACHING pages\nPolish RESEARCH page"
   },
   {
     "objectID": "index.html",
@@ -42,24 +63,45 @@
     "text": "I’m a Ph.D. student in Statistics at the University of Wisconsin - Madison."
   },
   {
+    "objectID": "pages/research.html",
+    "href": "pages/research.html",
+    "title": "Research",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "pages/talks.html",
+    "href": "pages/talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "COMING SOON!"
+  },
+  {
     "objectID": "pages/teaching/teaching-assistant/index.html",
     "href": "pages/teaching/teaching-assistant/index.html",
     "title": "Teaching Assistant",
     "section": "",
-    "text": "CitationBibTeX citation:@online{nguyen2025,\n  author = {Nguyen, Anh},\n  title = {Teaching {Assistant}},\n  date = {2025-05-15},\n  url = {https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nNguyen, Anh. 2025. “Teaching Assistant.” May 15, 2025. https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/."
+    "text": "STA111: Introduction to Statistics\nSTA311: Statistical Inference\nMath and Stat Center tutor"
+  },
+  {
+    "objectID": "pages/teaching/teaching-assistant/index.html#wake-forest-university",
+    "href": "pages/teaching/teaching-assistant/index.html#wake-forest-university",
+    "title": "Teaching Assistant",
+    "section": "",
+    "text": "STA111: Introduction to Statistics\nSTA311: Statistical Inference\nMath and Stat Center tutor"
+  },
+  {
+    "objectID": "pages/teaching/teaching-assistant/index.html#smith-college",
+    "href": "pages/teaching/teaching-assistant/index.html#smith-college",
+    "title": "Teaching Assistant",
+    "section": "Smith College",
+    "text": "Smith College\n\nMultivariable Calculus, Number Theory, and Math Skill Studio. Held drop-in study session for the Calculus sequence, Linear Algebra, and Discrete Math.}"
   },
   {
     "objectID": "pages/posts.html",
     "href": "pages/posts.html",
     "title": "Blog",
     "section": "",
-    "text": "blog post title\n\n\n\nQuarto\n\n\nR\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nAnh Nguyen\n\n\nMay 15, 2025\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "pages/about.html#previously",
-    "href": "pages/about.html#previously",
-    "title": "About",
-    "section": "Previously",
-    "text": "Previously\nBefore that I was a M.S. student and taught in the Department of Statistics at Wake Forest University. There I worked with Dr. Sarah Lotspeich on correcting for missing data for surrogate validation in a clinical setting. I was a baby mathematician (undergraduate student) at Smith College with a minor in Statistics and Data Science."
+    "text": "No matching items"
   }
 ]

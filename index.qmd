@@ -3,7 +3,7 @@ title: "Pham Dan Anh Nguyen"
 image: media/headshot.jpg
 toc: false
 about: 
-  template: trestles
+  template: jolla
   image-shape: rectangle
   image-width: 17em
   links:
