@@ -1,1 +1,106 @@
 /*-- scss:defaults --*/
+
+// Colors
+$duck-orange: #BC4B38;
+
+
+/*-- scss:rules --*/
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 40px;  /* width of the wavy lines area */
+  height: 100vh;
+  background-image: url('data:image/svg+xml;utf8,<svg width="20" height="100" viewBox="0 0 20 100" xmlns="http://www.w3.org/2000/svg"><path d="M10 0 Q15 25 10 50 Q5 75 10 100" stroke="blue" stroke-width="2" fill="none"/></svg>');
+  background-repeat: repeat-y;
+  background-size: 20px 100px;
+  z-index: 9999;
+  pointer-events: none;
+}
+
+.navbar-brand img { 
+  max-height: 40px;
+  width: auto;
+}
+
+// Logo line animation
+
+.icon-line {
+  display: block;
+  width: 100%;
+  height: 10px; 
+  margin: auto;
+  background: url("data:image/svg+xml;utf8,\
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 10'>\
+<path d='M0 5 Q 15 0, 30 5 T 60 5' fill='none' stroke='%23007bff' stroke-width='4'/>\
+</svg>") repeat-x;
+  background-size: 60px 10px;
+  animation: wave-scroll 2s linear infinite;
+}
+
+
+@keyframes wave-scroll {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: -60px 0;
+  }
+}
+
+.swimming-duck {
+  position: fixed;
+  bottom: 20px;       /* Just above the bottom */
+  right: -100px;      /* Start just off the right edge */
+  width: 80px;
+  height: 80px;
+  background-image: url('file/duck.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  pointer-events: none; 
+  z-index: 9999;
+  animation: glide-rtl 50s linear infinite;
+}
+
+@keyframes glide-rtl {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-110vw);
+  }
+}
+
+.wavy-line-bottom {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100vw; /* full width */
+    height: 40px;  /* height of the wave strip */
+    z-index: 1;    /* behind nav or other elements */
+    pointer-events: none;
+    overflow: visible;
+  }
+
+  /* Animated SVG wave as background */
+  .wavy-line-bottom::before {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 40px;
+    background: url('data:image/svg+xml;utf8,<svg width="100" height="40" viewBox="0 0 100 40" xmlns="http://www.w3.org/2000/svg"><path fill="none" stroke="blue" stroke-width="2" d="M0 20 C 20 0, 40 40, 60 20, 80 0, 100 20" /></svg>') repeat-x;
+    background-size: 100px 40px;
+    animation: waveMoveX 4s linear infinite;
+  }
+
+  /* Animate background horizontally for wave motion */
+  @keyframes waveMoveX {
+    0% {
+      background-position: 0 0;
+    }
+    100% {
+      background-position: 100px 0;
+    }
+  }
+

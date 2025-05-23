@@ -4,7 +4,7 @@ image: media/headshot.jpg
 toc: false
 about: 
   template: jolla
-  image-shape: rectangle
+  image-shape: round
   image-width: 17em
   links:
     - icon: linkedin 
@@ -15,7 +15,20 @@ about:
       target: _blank
     - icon: envelope
       href: mailto:nguyp22@wfu.edu
+    - href: file/cv.pdf
+      text: CV
+      target: _blank
 ---
 
-I'm a Ph.D. student in Statistics at the University of Wisconsin - Madison. 
+<body>
+  <div class="content">
+    I'm a Ph.D. student in Statistics at the University of Wisconsin - Madison. 
+  </div>
+  
+  <div class="swimming-duck"></div>
+  <div class="wavy-line-bottom"></div>
+</body>
+
+
+
 

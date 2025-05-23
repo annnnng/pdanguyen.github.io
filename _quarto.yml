@@ -4,19 +4,20 @@ project:
 
 website:
   title: "Pham Dan Anh Nguyen"
+  description: "This is Anh's academic website and personal blog. All views are my own and do not reflect the views of any organisation with which I might be affiliated."
   favicon: file/duck.png
   navbar:
-    title: false 
+    title: "Anh Nguyen<span class=\"icon-line\"></span>"
     logo: file/duck.png
     logo-alt: "Anh loves ducks!"
     left:
-      - href: index.qmd
-        text: Home
-      - href: pages/about.qmd
-        text: About
-      - href: file/cv.pdf
-        text: CV
-        target: _blank
+      - text: About
+        menu: 
+          - text: Some information
+            href: pages/about.qmd
+          - text: CV
+            href: file/cv.pdf
+            target: _blank
       - href: pages/research.qmd
         text: Research
       - href: pages/pub.qmd
@@ -24,15 +25,19 @@ website:
       - href: pages/teaching.qmd
         text: Teaching
       - pages/posts.qmd
+    search: true
+    background: transparent
+    foreground: success
+    reader-mode: true
 
   page-footer:
-    background: light
     left: Copyright 2025, Pham Dan Anh Nguyen
     right: Made by combining a lot of tutorials together
     
 format:
   html:
-    theme: litera
-    css: styles.css
+    theme: 
+      - litera
+      - styles.scss
     toc: true
     page-layout: full

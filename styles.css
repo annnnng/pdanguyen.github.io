@@ -1,1 +1,11 @@
 /* css styles */
+.icon-line {
+  display: block;
+  background: #00D46A;
+  width: 100%;
+  height: 6px;
+  margin: auto;
+  display: table;
+  margin-top: -6px;
+  margin-bottom: -6px;
+}
