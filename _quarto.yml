@@ -10,10 +10,10 @@ website:
     title: "Anh Nguyen<span class=\"icon-line\"></span>"
     logo: file/duck.png
     logo-alt: "Anh loves ducks!"
-    left:
+    right:
       - text: About
         menu: 
-          - text: Some information
+          - text: Info
             href: pages/about.qmd
           - text: CV
             href: file/cv.pdf

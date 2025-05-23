@@ -3,9 +3,7 @@ title: "Pham Dan Anh Nguyen"
 image: media/headshot.jpg
 toc: false
 about: 
-  template: jolla
-  image-shape: round
-  image-width: 17em
+  template: trestles
   links:
     - icon: linkedin 
       href: https://www.linkedin.com/in/anh-nguyen-450b841b2/
@@ -27,6 +25,7 @@ about:
   
   <div class="swimming-duck"></div>
   <div class="wavy-line-bottom"></div>
+
 </body>
 
 
