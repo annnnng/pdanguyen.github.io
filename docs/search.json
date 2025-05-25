@@ -1,24 +1,31 @@
 [
   {
-    "objectID": "pages/about.html",
-    "href": "pages/about.html",
-    "title": "About me",
+    "objectID": "pages/posts.html",
+    "href": "pages/posts.html",
+    "title": "Blog",
     "section": "",
-    "text": "You can call me Anh. I am currently a Ph.D. student in the Department of Statistics at the University of Wisconsin, Madison."
+    "text": "Date\n\n\nTitle\n\n\nReading Time\n\n\nDescription\n\n\nCategories\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "pages/about.html#previously",
-    "href": "pages/about.html#previously",
-    "title": "About me",
-    "section": "Previously",
-    "text": "Previously\nBefore that I was a M.S. student and taught as a Visisting Assistant Professor in the Department of Statistics at Wake Forest University. There I worked with Dr. Sarah Lotspeich on correcting for missing data for surrogate validation in a clinical setting. I was a math major at Smith College with a minor in Statistics and Data Science.\n\n\n\nWFU Statisitcs Department 2025 (I’m holding the duck!)"
+    "objectID": "pages/teaching/teaching-assistant/index.html",
+    "href": "pages/teaching/teaching-assistant/index.html",
+    "title": "Teaching Assistant",
+    "section": "",
+    "text": "STA111: Introduction to Statistics\nSTA311: Statistical Inference\nMath and Stat Center tutor"
   },
   {
-    "objectID": "pages/about.html#fun-thing",
-    "href": "pages/about.html#fun-thing",
-    "title": "About me",
-    "section": "Fun thing",
-    "text": "Fun thing\nI have been playing in a Gamelan ensemble for almost 10 years. Here’s a recent piece we played!"
+    "objectID": "pages/teaching/teaching-assistant/index.html#wake-forest-university",
+    "href": "pages/teaching/teaching-assistant/index.html#wake-forest-university",
+    "title": "Teaching Assistant",
+    "section": "",
+    "text": "STA111: Introduction to Statistics\nSTA311: Statistical Inference\nMath and Stat Center tutor"
+  },
+  {
+    "objectID": "pages/teaching/teaching-assistant/index.html#smith-college",
+    "href": "pages/teaching/teaching-assistant/index.html#smith-college",
+    "title": "Teaching Assistant",
+    "section": "Smith College",
+    "text": "Smith College\n\nMultivariable Calculus, Number Theory, and Math Skill Studio. Held drop-in study session for the Calculus sequence, Linear Algebra, and Discrete Math.}"
   },
   {
     "objectID": "pages/pub.html",
@@ -46,7 +53,7 @@
     "href": "pages/teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Teaching Assistant\n\n\nCourses for which I have served as teaching assistant\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Teaching Assistant\n\n\n\n\n\nCourses for which I have served as teaching assistant\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "TODO.html",
@@ -63,6 +70,13 @@
     "text": "I’m a Ph.D. student in Statistics at the University of Wisconsin - Madison. (and other kind of people!)"
   },
   {
+    "objectID": "index.html#working-on",
+    "href": "index.html#working-on",
+    "title": "Pham Dan Anh Nguyen",
+    "section": "Working on",
+    "text": "Working on\n\nteaching introductory statistics\nmissing data in surrogate validation\nlearning C++\ngardening (Masanobu Fukuoka’s one straw revolution)"
+  },
+  {
     "objectID": "pages/research.html",
     "href": "pages/research.html",
     "title": "Research",
@@ -74,48 +88,27 @@
     "href": "pages/talks.html",
     "title": "Talks",
     "section": "",
-    "text": "COMING SOON!"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTime to charting on the Billboard Hot 100 for Taylor Swift’s singles\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "pages/teaching/teaching-assistant/index.html",
-    "href": "pages/teaching/teaching-assistant/index.html",
-    "title": "Teaching Assistant",
+    "objectID": "pages/about.html",
+    "href": "pages/about.html",
+    "title": "About me",
     "section": "",
-    "text": "STA111: Introduction to Statistics\nSTA311: Statistical Inference\nMath and Stat Center tutor"
+    "text": "You can call me Anh. I am currently a Ph.D. student in the Department of Statistics at the University of Wisconsin, Madison."
   },
   {
-    "objectID": "pages/teaching/teaching-assistant/index.html#wake-forest-university",
-    "href": "pages/teaching/teaching-assistant/index.html#wake-forest-university",
-    "title": "Teaching Assistant",
-    "section": "",
-    "text": "STA111: Introduction to Statistics\nSTA311: Statistical Inference\nMath and Stat Center tutor"
+    "objectID": "pages/about.html#previously",
+    "href": "pages/about.html#previously",
+    "title": "About me",
+    "section": "Previously",
+    "text": "Previously\nBefore that I was a M.S. student and taught as a Visisting Assistant Professor in the Department of Statistics at Wake Forest University. There I worked with Dr. Sarah Lotspeich on correcting for missing data for surrogate validation in a clinical setting. I was a math major at Smith College with a minor in Statistics and Data Science.\n\n\n\nWFU Statisitcs Department 2025 (I’m holding the duck!)"
   },
   {
-    "objectID": "pages/teaching/teaching-assistant/index.html#smith-college",
-    "href": "pages/teaching/teaching-assistant/index.html#smith-college",
-    "title": "Teaching Assistant",
-    "section": "Smith College",
-    "text": "Smith College\n\nMultivariable Calculus, Number Theory, and Math Skill Studio. Held drop-in study session for the Calculus sequence, Linear Algebra, and Discrete Math.}"
-  },
-  {
-    "objectID": "pages/posts.html",
-    "href": "pages/posts.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#interest",
-    "href": "index.html#interest",
-    "title": "Pham Dan Anh Nguyen",
-    "section": "Interest",
-    "text": "Interest"
-  },
-  {
-    "objectID": "index.html#working-on",
-    "href": "index.html#working-on",
-    "title": "Pham Dan Anh Nguyen",
-    "section": "Working on",
-    "text": "Working on\n\nteaching introductory statistics\nmissing data in surrogate validation\nlearning C++\ngardening (Masanobu Fukuoka’s one straw revolution)"
+    "objectID": "pages/about.html#fun-thing",
+    "href": "pages/about.html#fun-thing",
+    "title": "About me",
+    "section": "Fun thing",
+    "text": "Fun thing\nI have been playing in a Gamelan ensemble for almost 10 years. Here’s a recent piece we played!"
   }
 ]

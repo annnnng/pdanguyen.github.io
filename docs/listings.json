@@ -1,5 +1,9 @@
 [
   {
+    "listing": "/pages/posts.html",
+    "items": []
+  },
+  {
     "listing": "/pages/teaching.html",
     "items": [
       "/pages/teaching/teaching-assistant/index.html"
@@ -10,7 +14,9 @@
     "items": []
   },
   {
-    "listing": "/pages/posts.html",
-    "items": []
+    "listing": "/pages/talks.html",
+    "items": [
+      "/pages/talks/taylor-swift-time-charting/index.html"
+    ]
   }
 ]

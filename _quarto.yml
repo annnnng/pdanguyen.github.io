@@ -22,6 +22,8 @@ website:
         text: Research
       - href: pages/pub.qmd
         text: Publications
+      - href: pages/talks.qmd
+        text: Talks
       - href: pages/teaching.qmd
         text: Teaching
       - pages/posts.qmd
