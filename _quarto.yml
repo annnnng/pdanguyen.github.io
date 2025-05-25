@@ -13,7 +13,7 @@ website:
     right:
       - text: About
         menu: 
-          - text: Info
+          - text: Me
             href: pages/about.qmd
           - text: CV
             href: file/cv.pdf

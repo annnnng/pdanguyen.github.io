@@ -2,21 +2,21 @@
   {
     "objectID": "pages/about.html",
     "href": "pages/about.html",
-    "title": "About",
+    "title": "About me",
     "section": "",
-    "text": "I am currently a Ph.D. students in the Department of Statistics at the University of Wisconsin, Madison."
+    "text": "You can call me Anh. I am currently a Ph.D. student in the Department of Statistics at the University of Wisconsin, Madison."
   },
   {
     "objectID": "pages/about.html#previously",
     "href": "pages/about.html#previously",
-    "title": "About",
+    "title": "About me",
     "section": "Previously",
-    "text": "Previously\nBefore that I was a M.S. student and taught in the Department of Statistics at Wake Forest University. There I worked with Dr. Sarah Lotspeich on correcting for missing data for surrogate validation in a clinical setting. I was a baby mathematician (undergraduate student) at Smith College with a minor in Statistics and Data Science."
+    "text": "Previously\nBefore that I was a M.S. student and taught as a Visisting Assistant Professor in the Department of Statistics at Wake Forest University. There I worked with Dr. Sarah Lotspeich on correcting for missing data for surrogate validation in a clinical setting. I was a math major at Smith College with a minor in Statistics and Data Science.\n\n\n\nWFU Statisitcs Department 2025 (I’m holding the duck!)"
   },
   {
     "objectID": "pages/about.html#fun-thing",
     "href": "pages/about.html#fun-thing",
-    "title": "About",
+    "title": "About me",
     "section": "Fun thing",
     "text": "Fun thing\nI have been playing in a Gamelan ensemble for almost 10 years. Here’s a recent piece we played!"
   },
@@ -60,7 +60,7 @@
     "href": "index.html",
     "title": "Pham Dan Anh Nguyen",
     "section": "",
-    "text": "I'm a Ph.D. student in Statistics at the University of Wisconsin - Madison."
+    "text": "I’m a Ph.D. student in Statistics at the University of Wisconsin - Madison. (and other kind of people!)"
   },
   {
     "objectID": "pages/research.html",
@@ -103,5 +103,19 @@
     "title": "Blog",
     "section": "",
     "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#interest",
+    "href": "index.html#interest",
+    "title": "Pham Dan Anh Nguyen",
+    "section": "Interest",
+    "text": "Interest"
+  },
+  {
+    "objectID": "index.html#working-on",
+    "href": "index.html#working-on",
+    "title": "Pham Dan Anh Nguyen",
+    "section": "Working on",
+    "text": "Working on\n\nteaching introductory statistics\nmissing data in surrogate validation\nlearning C++\ngardening (Masanobu Fukuoka’s one straw revolution)"
   }
 ]

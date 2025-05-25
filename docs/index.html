@@ -97,7 +97,7 @@ ul.task-list li input[type="checkbox"] {
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
         <li>
     <a class="dropdown-item" href="./pages/about.html">
- <span class="dropdown-text">Info</span></a>
+ <span class="dropdown-text">Me</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./file/cv.pdf" target="_blank">
@@ -164,15 +164,39 @@ ul.task-list li input[type="checkbox"] {
 </div>
   </div>
   <div class="about-contents"><main class="content column-page" id="quarto-document-content">
-<div class="content">
-<pre><code>I'm a Ph.D. student in Statistics at the University of Wisconsin - Madison. </code></pre>
-</div>
+<p>I’m a Ph.D.&nbsp;student in Statistics at the University of Wisconsin - Madison. (and other kind of people!)</p>
+<section id="working-on" class="level2">
+<h2 data-anchor-id="working-on">Working on</h2>
+<ul>
+<li>teaching introductory statistics</li>
+<li>missing data in surrogate validation</li>
+<li>learning C++</li>
+<li>gardening (<a href="https://www.chelseagreen.com/product/one-straw-revolutionary/?srsltid=AfmBOopGKc-v5EauW7klSkUZBagZTdahJ7E_ckw85G3GE_bYoylJ4R53">Masanobu Fukuoka’s one straw revolution</a>)</li>
+</ul>
 <div class="swimming-duck">
 </div>
 <div class="wavy-line-bottom">
 </div>
+<div id="leaves-container">
+</div>
+<script>
+  const leafEmojis = ["🍃"];
+  const container = document.getElementById("leaves-container");
+  function createLeaf() {
+    const leaf = document.createElement("div");
+    leaf.className = "leaf";
+    leaf.textContent = leafEmojis[Math.floor(Math.random() * leafEmojis.length)];
+    leaf.style.left = Math.random() * 100 + "vw";
+    leaf.style.animationDuration = 4 + Math.random() * 5 + "s";
+    leaf.style.fontSize = (16 + Math.random() * 24) + "px";
+    container.appendChild(leaf);
+    setTimeout(() => container.removeChild(leaf), 10000);
+  }
+  setInterval(createLeaf, 300);
+</script>
 
 
+</section>
 </main></div>
 </div>
  <!-- /main -->

@@ -1,12 +1,16 @@
 ---
-title: "About"
+title: "About me"
 ---
 
-I am currently a Ph.D. students in the [Department of Statistics](https://stat.wisc.edu/){target="_blank"} at the University of Wisconsin, Madison. 
+You can call me Anh. I am currently a Ph.D. student in the [Department of Statistics](https://stat.wisc.edu/){target="_blank"} at the University of Wisconsin, Madison.
 
 ## Previously
 
-Before that I was a M.S. student and taught in the [Department of Statistics](https://stats.wfu.edu/){target="_blank"} at Wake Forest University. There I worked with [Dr. Sarah Lotspeich](https://www.sarahlotspeich.com/){target="_blank"} on correcting for missing data for surrogate validation in a clinical setting. I was a baby mathematician (undergraduate student) at [Smith College](https://www.smith.edu/){target="_blank"}  with a minor in Statistics and Data Science. 
+Before that I was a M.S. student and taught as a Visisting Assistant Professor in the [Department of Statistics](https://stats.wfu.edu/){target="_blank"} at Wake Forest University. There I worked with [Dr. Sarah Lotspeich](https://www.sarahlotspeich.com/){target="_blank"} on correcting for missing data for surrogate validation in a clinical setting. I was a math major at [Smith College](https://www.smith.edu/){target="_blank"}  with a minor in Statistics and Data Science. 
+
+
+![WFU Statisitcs Department 2025 (I'm holding the duck!)](media/image/wfu-stat-2025.jpg)
+
 
 ## Fun thing
 
