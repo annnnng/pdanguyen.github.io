@@ -18,38 +18,22 @@ about:
       target: _blank
 ---
 
-I'm a Ph.D. student in Statistics at the University of Wisconsin - Madison. (and other kind of people!)
+I'm Anh. I am currently a Ph.D. student in the [Department of Statistics](https://stat.wisc.edu/){target="_blank"} at the University of Wisconsin, Madison.
 
 ## Working on
 
 - teaching introductory statistics
-- missing data in surrogate validation
+- [missing data in surrogate validation](pages/research/missing-surrogate/index.qmd)
 - learning C++
 - gardening ([Masanobu Fukuoka's one straw revolution](https://www.chelseagreen.com/product/one-straw-revolutionary/?srsltid=AfmBOopGKc-v5EauW7klSkUZBagZTdahJ7E_ckw85G3GE_bYoylJ4R53))
+
+## Previously
+
+Before that I was a M.S. student and taught as a Visisting Assistant Professor in the [Department of Statistics](https://stats.wfu.edu/){target="_blank"} at Wake Forest University. There I worked with [Dr. Sarah Lotspeich](https://www.sarahlotspeich.com/){target="_blank"} on correcting for missing data for surrogate validation in a clinical setting. I was a math major at [Smith College](https://www.smith.edu/){target="_blank"}  with a minor in Statistics and Data Science. 
 
 <body>
   <div class="swimming-duck"></div>
   <div class="wavy-line-bottom"></div>
-  <div id="leaves-container"></div>
-  <script>
-  const leafEmojis = ["🍃"];
-  const container = document.getElementById("leaves-container");
-
-  function createLeaf() {
-    const leaf = document.createElement("div");
-    leaf.className = "leaf";
-    leaf.textContent = leafEmojis[Math.floor(Math.random() * leafEmojis.length)];
-    leaf.style.left = Math.random() * 100 + "vw";
-    leaf.style.animationDuration = 4 + Math.random() * 5 + "s";
-    leaf.style.fontSize = (16 + Math.random() * 24) + "px";
-    container.appendChild(leaf);
-
-    setTimeout(() => container.removeChild(leaf), 10000);
-  }
-
-  setInterval(createLeaf, 300);
-</script>
-
 </body>
 
 

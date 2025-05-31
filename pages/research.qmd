@@ -2,8 +2,12 @@
 title: "Research"
 listing: 
   contents: research
-  type: grid # or `default` or `table`; each type has its own set of yaml options to include
+  type: default
   sort: "date desc" # can also sort on more than one field
   categories: true # allows you to sort posts by assigned categories 
 ---
 
+I am still exploring all the interesting problems in statistics. My current research interests include:
+
+- Missing data methods in various settings
+- Statistical education

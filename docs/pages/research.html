@@ -79,9 +79,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -151,27 +151,16 @@ window.Quarto = {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">About</span>
-    </a>
-    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
-        <li>
-    <a class="dropdown-item" href="../pages/about.html">
- <span class="dropdown-text">Me</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="../file/cv.pdf" target="_blank"> 
+<span class="menu-text">CV</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="../file/cv.pdf" target="_blank">
- <span class="dropdown-text">CV</span></a>
-  </li>  
-    </ul>
-  </li>
   <li class="nav-item">
     <a class="nav-link active" href="../pages/research.html" aria-current="page"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../pages/pub.html"> 
+    <a class="nav-link" href="../pages/research/papers/pub.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
@@ -199,7 +188,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -222,13 +211,39 @@ window.Quarto = {
 </header>
 
 
+<p>I am still exploring all the interesting problems in statistics. My current research interests include:</p>
+<ul>
+<li>Missing data methods in various settings</li>
+<li>Statistical education</li>
+</ul>
 
 
 
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1748214798942" data-listing-reading-time-sort="1" data-listing-word-count-sort="53">
+<div class="thumbnail">
+<p><a href="../pages/research/papers/pub.html" class="no-external"></a></p><a href="../pages/research/papers/pub.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="../pages/research/papers/pub.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../pages/research/papers/pub.html" class="no-external">Publications</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../pages/research/papers/pub.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../pages/research/papers/pub.html" class="no-external">Collection of research papers</a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="../pages/research/papers/pub.html" class="no-external"></a></p><a href="../pages/research/papers/pub.html" class="no-external">
+</a>
+</div>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items

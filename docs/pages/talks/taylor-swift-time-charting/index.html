@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2024-10-16">
+<meta name="description" content="Given at Women in Statistics and Data Science 2024, and International Day of Women in Statistics and Data Science 2024.">
 
-<title>Pham Dan Anh Nguyen - Time to charting on the Billboard Hot 100 for Taylor Swift’s singles</title>
+<title>Pham Dan Anh Nguyen - Look What You Made Me Do - A Taylor Swift’s Singles Charting Time Analysis</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -91,27 +93,16 @@ ul.task-list li input[type="checkbox"] {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">About</span>
-    </a>
-    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
-        <li>
-    <a class="dropdown-item" href="../../../pages/about.html">
- <span class="dropdown-text">Me</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="../../../file/cv.pdf" target="_blank"> 
+<span class="menu-text">CV</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="../../../file/cv.pdf" target="_blank">
- <span class="dropdown-text">CV</span></a>
-  </li>  
-    </ul>
-  </li>
   <li class="nav-item">
     <a class="nav-link" href="../../../pages/research.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../pages/pub.html"> 
+    <a class="nav-link" href="../../../pages/research/papers/pub.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
@@ -137,22 +128,40 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#slide" id="toc-slide" class="nav-link active" data-scroll-target="#slide">Slide</a></li>
+  <li><a href="#poster" id="toc-poster" class="nav-link" data-scroll-target="#poster">Poster</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Time to charting on the Billboard Hot 100 for Taylor Swift’s singles</h1>
+<h1 class="title">Look What You Made Me Do - A Taylor Swift’s Singles Charting Time Analysis</h1>
+</div>
+
+<div>
+  <div class="description">
+    Given at <a href="https://ww2.amstat.org/meetings/wsds/2024/index.cfm">Women in Statistics and Data Science 2024</a>, and <a href="https://www.idwsds.org/">International Day of Women in Statistics and Data Science</a> 2024.
+  </div>
 </div>
 
 
-
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta column-page-left">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">October 16, 2024</p>
+    </div>
+  </div>
   
     
   </div>
@@ -162,8 +171,25 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p>The Billboard Hot 100, released every Saturday, tracks sales, media plays, and streaming for songs every week. We know all too well that Taylor Swift is its chart-topping queen, with 188 charted songs and 24 top-5 hits. ‘Midnight,’ a recent album release, dominated the Billboard Hot 100, occupying all the top-10 positions and charting all 20 songs. As Taylor continues her iconic ‘Eras Tour,’ we can reflect on her eras through the lens of survival analysis. By analyzing the time from song release to charting on the Billboard Hot 100, we can better understand Taylor’s rise from an aspiring small-town country singer to a pop icon. With data from the ‘TayloR’ R package, we use a Kaplan-Meier estimator to capture the overall time to charting for all songs and by album era. The era-specific analysis suggests that more recent eras had shorter median times to charting. Since Taylor is famous for her relatable and immaculate songwriting, we also consider whether “speechiness” (a Spotify measurement for the amount of spoken words in a song) impacted time to charting. Using a Cox hazard proportional model, we found that songs with more spoken words tend to chart more quickly. With her recent rise in popularity as evidenced by shorter charting time and her impactful lyrics, we see that Taylor Swift is on her way to cementing herself as a legend in the contemporary music sphere.</p>
+<section id="slide" class="level2">
+<h2 class="anchored" data-anchor-id="slide">Slide</h2>
+  <p><a href="TS_SurvivalAnalysis.pdf" target="_blank">Download PDF File</a></p>
+   <object data="TS_SurvivalAnalysis.pdf" type="application/pdf" width="100%" height="600px">
+    <p>Unable to display PDF file. <a href="TS_SurvivalAnalysis.pdf">Download</a> instead.</p>
+  </object>
+  
+</section>
+<section id="poster" class="level2">
+<h2 class="anchored" data-anchor-id="poster">Poster</h2>
+  <p><a href="TSTimeToCharting_AnhNguyen_WakeForestUniversity.pdf" target="_blank">Download PDF File</a></p>
+   <object data="TSTimeToCharting_AnhNguyen_WakeForestUniversity.pdf" type="application/pdf" width="100%" height="600px">
+    <p>Unable to display PDF file. <a href="TSTimeToCharting_AnhNguyen_WakeForestUniversity.pdf">Download</a> instead.</p>
+  </object>
+  
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

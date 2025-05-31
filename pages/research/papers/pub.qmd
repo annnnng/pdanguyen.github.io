@@ -1,5 +1,6 @@
 ---
 title: "Publications"
+description: Collection of research papers
 ---
 
 ## Preprints

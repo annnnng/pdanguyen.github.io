@@ -11,16 +11,12 @@ website:
     logo: file/duck.png
     logo-alt: "Anh loves ducks!"
     right:
-      - text: About
-        menu: 
-          - text: Me
-            href: pages/about.qmd
-          - text: CV
-            href: file/cv.pdf
-            target: _blank
+      - text: CV
+        href: file/cv.pdf
+        target: _blank
       - href: pages/research.qmd
         text: Research
-      - href: pages/pub.qmd
+      - href: pages/research/papers/pub.qmd
         text: Publications
       - href: pages/talks.qmd
         text: Talks

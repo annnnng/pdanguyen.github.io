@@ -80,9 +80,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -152,27 +152,16 @@ window.Quarto = {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">About</span>
-    </a>
-    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
-        <li>
-    <a class="dropdown-item" href="../pages/about.html">
- <span class="dropdown-text">Me</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="../file/cv.pdf" target="_blank"> 
+<span class="menu-text">CV</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="../file/cv.pdf" target="_blank">
- <span class="dropdown-text">CV</span></a>
-  </li>  
-    </ul>
-  </li>
   <li class="nav-item">
     <a class="nav-link" href="../pages/research.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../pages/pub.html"> 
+    <a class="nav-link" href="../pages/research/papers/pub.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
@@ -233,21 +222,21 @@ window.Quarto = {
 
 
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
 <div class="listing-actions-group">
    <div class="input-group input-group-sm quarto-listing-sort">
      <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
      <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
        <option value="" disabled="" selected="" hidden="">Order By</option>
        <option value="index" data-direction="asc">Default</option>
-         <option value="listing-title" data-direction="asc">
-          Title
-        </option>
          <option value="listing-date-sort" data-direction="asc">
           Date - Oldest
         </option>
          <option value="listing-date-sort" data-direction="desc">
           Date - Newest
+        </option>
+         <option value="listing-title-sort" data-direction="asc">
+          Title
         </option>
      </select>
   </div>
@@ -256,25 +245,34 @@ window.Quarto = {
       <input type="text" class="search form-control" placeholder="Filter">
     </div>
 </div>
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1748194285406" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../pages/talks/taylor-swift-time-charting/index.html" class="no-external">Time to charting on the Billboard Hot 100 for Taylor Swift’s singles</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../pages/talks/taylor-swift-time-charting/index.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="../pages/talks/taylor-swift-time-charting/index.html" class="no-external"></a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="../pages/talks/taylor-swift-time-charting/index.html" class="no-external"></a></p><a href="../pages/talks/taylor-swift-time-charting/index.html" class="no-external">
-</a>
-</div>
-</div>
-</div>
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
+</th>
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
+</th>
+<th>
+Description
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-listing-date-sort="1729051200000" data-listing-file-modified-sort="1748214214405" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="240" data-listing-title-sort="Look What You Made Me Do - A Taylor Swift's Singles Charting Time Analysis" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Oct 16, 2024</span>
+</td>
+<td>
+<a href="../pages/talks/taylor-swift-time-charting/index.html" class="title listing-title">Look What You Made Me Do - A Taylor Swift’s Singles Charting Time Analysis</a>
+</td>
+<td>
+<span class="listing-description">Given at <a href="https://ww2.amstat.org/meetings/wsds/2024/index.cfm">Women in Statistics and Data Science 2024</a>, and <a href="https://www.idwsds.org/">International Day of Women in Statistics and Data Science</a> 2024.</span>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="listing-no-matching d-none">
 No matching items
 </div>

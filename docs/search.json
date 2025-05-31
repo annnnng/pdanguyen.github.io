@@ -4,7 +4,7 @@
     "href": "pages/posts.html",
     "title": "Blog",
     "section": "",
-    "text": "Date\n\n\nTitle\n\n\nReading Time\n\n\nDescription\n\n\nCategories\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "pages/teaching/teaching-assistant/index.html",
@@ -28,25 +28,11 @@
     "text": "Smith College\n\nMultivariable Calculus, Number Theory, and Math Skill Studio. Held drop-in study session for the Calculus sequence, Linear Algebra, and Discrete Math.}"
   },
   {
-    "objectID": "pages/pub.html",
-    "href": "pages/pub.html",
-    "title": "Publications",
+    "objectID": "pages/talks.html",
+    "href": "pages/talks.html",
+    "title": "Talks",
     "section": "",
-    "text": "A.E. Mullan, P.D.A. Nguyen, S.C. Lotspeich, “Linking Potentially Misclassified Healthy Food Access to Diabetes Prevalence,”” Statistics and Public Policy (under review), 2025+.  Preprint - Software"
-  },
-  {
-    "objectID": "pages/pub.html#preprints",
-    "href": "pages/pub.html#preprints",
-    "title": "Publications",
-    "section": "",
-    "text": "A.E. Mullan, P.D.A. Nguyen, S.C. Lotspeich, “Linking Potentially Misclassified Healthy Food Access to Diabetes Prevalence,”” Statistics and Public Policy (under review), 2025+.  Preprint - Software"
-  },
-  {
-    "objectID": "pages/pub.html#peer-reviewed",
-    "href": "pages/pub.html#peer-reviewed",
-    "title": "Publications",
-    "section": "Peer-Reviewed",
-    "text": "Peer-Reviewed\n\nZihan Miao, Anh Nguyen, Tian An Wong. “Kronecker’s first limit formula for Kleinian groups.” Funct. Approx. Comment. Math. 69 (1) 7 - 25, September 2023. DOI"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\nOct 16, 2024\n\n\nLook What You Made Me Do - A Taylor Swift’s Singles Charting Time Analysis\n\n\nGiven at Women in Statistics and Data Science 2024, and International Day of Women in Statistics and Data Science 2024.\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "pages/teaching.html",
@@ -56,18 +42,11 @@
     "text": "Teaching Assistant\n\n\n\n\n\nCourses for which I have served as teaching assistant\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "TODO.html",
-    "href": "TODO.html",
-    "title": "Pham Dan Anh Nguyen",
-    "section": "",
-    "text": "implement animated ducks\nimplement water background\nwrite a blog post\nRevisit and revise your landing page content / bio\nFinish applying your colors to different website elements\nPolish Github README\nUpdate CV\nUpdate ORIC\nPolish RESEARCH page\nPolish TEACHING pages\nPolish RESEARCH page"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Pham Dan Anh Nguyen",
     "section": "",
-    "text": "I’m a Ph.D. student in Statistics at the University of Wisconsin - Madison. (and other kind of people!)"
+    "text": "I’m Anh. I am currently a Ph.D. student in the Department of Statistics at the University of Wisconsin, Madison."
   },
   {
     "objectID": "index.html#working-on",
@@ -77,38 +56,66 @@
     "text": "Working on\n\nteaching introductory statistics\nmissing data in surrogate validation\nlearning C++\ngardening (Masanobu Fukuoka’s one straw revolution)"
   },
   {
+    "objectID": "index.html#previously",
+    "href": "index.html#previously",
+    "title": "Pham Dan Anh Nguyen",
+    "section": "Previously",
+    "text": "Previously\nBefore that I was a M.S. student and taught as a Visisting Assistant Professor in the Department of Statistics at Wake Forest University. There I worked with Dr. Sarah Lotspeich on correcting for missing data for surrogate validation in a clinical setting. I was a math major at Smith College with a minor in Statistics and Data Science."
+  },
+  {
+    "objectID": "TODO.html",
+    "href": "TODO.html",
+    "title": "Pham Dan Anh Nguyen",
+    "section": "",
+    "text": "implement animated ducks\nimplement water background\nwrite a blog post\nRevisit and revise your landing page content / bio\nFinish applying your colors to different website elements\nPolish Github README\nUpdate CV\nUpdate ORIC\nPolish RESEARCH page\nPolish TEACHING pages\nPolish RESEARCH page"
+  },
+  {
+    "objectID": "pages/research/papers/pub.html",
+    "href": "pages/research/papers/pub.html",
+    "title": "Publications",
+    "section": "",
+    "text": "A.E. Mullan, P.D.A. Nguyen, S.C. Lotspeich, “Linking Potentially Misclassified Healthy Food Access to Diabetes Prevalence,”” Statistics and Public Policy (under review), 2025+.  Preprint - Software"
+  },
+  {
+    "objectID": "pages/research/papers/pub.html#preprints",
+    "href": "pages/research/papers/pub.html#preprints",
+    "title": "Publications",
+    "section": "",
+    "text": "A.E. Mullan, P.D.A. Nguyen, S.C. Lotspeich, “Linking Potentially Misclassified Healthy Food Access to Diabetes Prevalence,”” Statistics and Public Policy (under review), 2025+.  Preprint - Software"
+  },
+  {
+    "objectID": "pages/research/papers/pub.html#peer-reviewed",
+    "href": "pages/research/papers/pub.html#peer-reviewed",
+    "title": "Publications",
+    "section": "Peer-Reviewed",
+    "text": "Peer-Reviewed\n\nZihan Miao, Anh Nguyen, Tian An Wong. “Kronecker’s first limit formula for Kleinian groups.” Funct. Approx. Comment. Math. 69 (1) 7 - 25, September 2023. DOI"
+  },
+  {
     "objectID": "pages/research.html",
     "href": "pages/research.html",
     "title": "Research",
     "section": "",
-    "text": "No matching items"
+    "text": "I am still exploring all the interesting problems in statistics. My current research interests include:\n\nMissing data methods in various settings\nStatistical education\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\n\n\n\nCollection of research papers\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "pages/talks.html",
-    "href": "pages/talks.html",
-    "title": "Talks",
+    "objectID": "pages/talks/taylor-swift-time-charting/index.html",
+    "href": "pages/talks/taylor-swift-time-charting/index.html",
+    "title": "Look What You Made Me Do - A Taylor Swift’s Singles Charting Time Analysis",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTime to charting on the Billboard Hot 100 for Taylor Swift’s singles\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "The Billboard Hot 100, released every Saturday, tracks sales, media plays, and streaming for songs every week. We know all too well that Taylor Swift is its chart-topping queen, with 188 charted songs and 24 top-5 hits. ‘Midnight,’ a recent album release, dominated the Billboard Hot 100, occupying all the top-10 positions and charting all 20 songs. As Taylor continues her iconic ‘Eras Tour,’ we can reflect on her eras through the lens of survival analysis. By analyzing the time from song release to charting on the Billboard Hot 100, we can better understand Taylor’s rise from an aspiring small-town country singer to a pop icon. With data from the ‘TayloR’ R package, we use a Kaplan-Meier estimator to capture the overall time to charting for all songs and by album era. The era-specific analysis suggests that more recent eras had shorter median times to charting. Since Taylor is famous for her relatable and immaculate songwriting, we also consider whether “speechiness” (a Spotify measurement for the amount of spoken words in a song) impacted time to charting. Using a Cox hazard proportional model, we found that songs with more spoken words tend to chart more quickly. With her recent rise in popularity as evidenced by shorter charting time and her impactful lyrics, we see that Taylor Swift is on her way to cementing herself as a legend in the contemporary music sphere."
   },
   {
-    "objectID": "pages/about.html",
-    "href": "pages/about.html",
-    "title": "About me",
-    "section": "",
-    "text": "You can call me Anh. I am currently a Ph.D. student in the Department of Statistics at the University of Wisconsin, Madison."
+    "objectID": "pages/talks/taylor-swift-time-charting/index.html#slide",
+    "href": "pages/talks/taylor-swift-time-charting/index.html#slide",
+    "title": "Look What You Made Me Do - A Taylor Swift’s Singles Charting Time Analysis",
+    "section": "Slide",
+    "text": "Slide\n  Download PDF File\n   \n    Unable to display PDF file. Download instead."
   },
   {
-    "objectID": "pages/about.html#previously",
-    "href": "pages/about.html#previously",
-    "title": "About me",
-    "section": "Previously",
-    "text": "Previously\nBefore that I was a M.S. student and taught as a Visisting Assistant Professor in the Department of Statistics at Wake Forest University. There I worked with Dr. Sarah Lotspeich on correcting for missing data for surrogate validation in a clinical setting. I was a math major at Smith College with a minor in Statistics and Data Science.\n\n\n\nWFU Statisitcs Department 2025 (I’m holding the duck!)"
-  },
-  {
-    "objectID": "pages/about.html#fun-thing",
-    "href": "pages/about.html#fun-thing",
-    "title": "About me",
-    "section": "Fun thing",
-    "text": "Fun thing\nI have been playing in a Gamelan ensemble for almost 10 years. Here’s a recent piece we played!"
+    "objectID": "pages/talks/taylor-swift-time-charting/index.html#poster",
+    "href": "pages/talks/taylor-swift-time-charting/index.html#poster",
+    "title": "Look What You Made Me Do - A Taylor Swift’s Singles Charting Time Analysis",
+    "section": "Poster",
+    "text": "Poster\n  Download PDF File\n   \n    Unable to display PDF file. Download instead."
   }
 ]

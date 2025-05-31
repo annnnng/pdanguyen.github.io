@@ -4,6 +4,12 @@
     "items": []
   },
   {
+    "listing": "/pages/talks.html",
+    "items": [
+      "/pages/talks/taylor-swift-time-charting/index.html"
+    ]
+  },
+  {
     "listing": "/pages/teaching.html",
     "items": [
       "/pages/teaching/teaching-assistant/index.html"
@@ -11,12 +17,8 @@
   },
   {
     "listing": "/pages/research.html",
-    "items": []
-  },
-  {
-    "listing": "/pages/talks.html",
     "items": [
-      "/pages/talks/taylor-swift-time-charting/index.html"
+      "/pages/research/papers/pub.html"
     ]
   }
 ]

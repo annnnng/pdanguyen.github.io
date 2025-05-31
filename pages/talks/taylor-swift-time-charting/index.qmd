@@ -1,3 +1,15 @@
 ---
-title: Time to charting on the Billboard Hot 100 for Taylor Swift's singles
+title: Look What You Made Me Do - A Taylor Swift's Singles Charting Time Analysis
+description: Given at [Women in Statistics and Data Science 2024](https://ww2.amstat.org/meetings/wsds/2024/index.cfm), and [International Day of Women in Statistics and Data Science](https://www.idwsds.org/) 2024.
+date: 10/16/2024
 ---
+
+The Billboard Hot 100, released every Saturday, tracks sales, media plays, and streaming for songs every week. We know all too well that Taylor Swift is its chart-topping queen, with 188 charted songs and 24 top-5 hits. 'Midnight,' a recent album release, dominated the Billboard Hot 100, occupying all the top-10 positions and charting all 20 songs. As Taylor continues her iconic 'Eras Tour,' we can reflect on her eras through the lens of survival analysis. By analyzing the time from song release to charting on the Billboard Hot 100, we can better understand Taylor's rise from an aspiring small-town country singer to a pop icon. With data from the 'TayloR' R package, we use a Kaplan-Meier estimator to capture the overall time to charting for all songs and by album era. The era-specific analysis suggests that more recent eras had shorter median times to charting. Since Taylor is famous for her relatable and immaculate songwriting, we also consider whether "speechiness" (a Spotify measurement for the amount of spoken words in a song) impacted time to charting. Using a Cox hazard proportional model, we found that songs with more spoken words tend to chart more quickly. With her recent rise in popularity as evidenced by shorter charting time and her impactful lyrics, we see that Taylor Swift is on her way to cementing herself as a legend in the contemporary music sphere. 
+
+## Slide
+
+{{< pdf file="TS_SurvivalAnalysis.pdf" >}}
+
+## Poster
+
+{{< pdf file="TSTimeToCharting_AnhNguyen_WakeForestUniversity.pdf" >}}
